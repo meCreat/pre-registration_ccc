@@ -1,0 +1,33 @@
+td{
+	padding: 5px;
+	border-bottom: 1px solid;
+}
+tr:hover{
+	background-color: grey;
+	color: white;
+}
+table {
+	border: 1px solid;
+	margin-bottom: 20px;	
+}
+.btn-button{
+	padding: 5px;
+	margin: 5px;
+}
+
+body{
+	padding-bottom: 10%;
+	
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  
+}
+
+
+
+
