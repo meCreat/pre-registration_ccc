@@ -1,0 +1,68 @@
+body{
+	background-color: white;
+  margin-top: 2%;
+
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.sheet{
+    
+	  margin: auto;
+  	padding: 50px;
+  	font-family:serif;
+  	font-size: 20px;
+    max-width: 500px;
+    min-width: 30%;
+    box-shadow:  0 5px 25px rgb(0 0 0 / 20%);
+	}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 220px;
+  max-width: 220px;
+  min-width: 30%;
+  border-radius:200px;
+  position: relative;
+  border: 1px solid #002699;
+}
+
+.form-control{
+     position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+}
+
+input{
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  width: 200px;
+  padding: 3px;
+  border: 1px solid black;
+  font-size: 15px;
+  margin-top: 10px;
+  margin-bottom: 20px ;
+}
+
+p, legend{
+  color: white;
+}
+legend{
+  margin-bottom: 20px;
+  text-shadow: black 0 2px 2px;
+}
+
+form {
+  margin-top: 30px;
+
+}
